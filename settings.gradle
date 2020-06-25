@@ -1,0 +1,3 @@
+include ':DidYouMeanLib'
+include ':app'
+rootProject.name = "didyoumean"

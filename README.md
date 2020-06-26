@@ -1,20 +1,24 @@
-# Did-You-Mean
+# Android `Did-You-Mean`  [![](https://jitpack.io/v/EsmaeelNabil/Did-You-Mean.svg)](https://jitpack.io/#EsmaeelNabil/Did-You-Mean)
 
+#### this library is used for spelling and correcting words with (Did you mean feature) of google search api
 
+###### Example :
+- submit this `yah.com` and the response will be `yahoo.com`
+- submit this `gmal.com` and the response will be `gmail.com`
 
 ###### Built with :
-- google search Api for spelling words and correcting them with Did you mean feature
+- google search Api
 - Coroutines
 - Kotlin Higher order functions
 
 
-## version [![](https://jitpack.io/v/EsmaeelNabil/Did-You-Mean.svg)](https://jitpack.io/#EsmaeelNabil/Did-You-Mean)
-
+##### version 
 
 ###### googleApiToken :
-- generate it from here : https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
+- generate it from here : [Google Developers Custom Search Api](https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key)
 
 ###### in project --> build.gradle
+
 
 ```gradle
 allprojects {
@@ -25,7 +29,9 @@ allprojects {
 
     }
 ```
-###### in app --> build.gradle file :
+
+###### in app --> build.gradle : 
+[![](https://jitpack.io/v/EsmaeelNabil/Did-You-Mean.svg)](https://jitpack.io/#EsmaeelNabil/Did-You-Mean)
 
 ```gradle
 
@@ -39,9 +45,9 @@ android {
 }
 
  dependencies {
-
-	        implementation 'com.github.EsmaeelNabil:Did-You-Mean:1.0'
-
+                ....
+	        implementation 'com.github.EsmaeelNabil:Did-You-Mean:1.0' 
+	        ....
  }
 ```
 

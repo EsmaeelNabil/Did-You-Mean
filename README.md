@@ -1,4 +1,4 @@
-# Android `Did-You-Mean`  [![](https://jitpack.io/v/EsmaeelNabil/Did-You-Mean.svg)](https://jitpack.io/#EsmaeelNabil/Did-You-Mean)
+#  `Did-You-Mean`  [![](https://jitpack.io/v/EsmaeelNabil/Did-You-Mean.svg)](https://jitpack.io/#EsmaeelNabil/Did-You-Mean)
 
 #### this library is used for spelling and correcting words with (Did you mean feature) of google search api
 
